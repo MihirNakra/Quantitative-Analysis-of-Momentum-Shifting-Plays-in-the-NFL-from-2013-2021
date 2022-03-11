@@ -43,13 +43,13 @@ Due to an increasingly pass-heavy league, we wanted to see if there was any chan
 
 For the team whose defense recovered the turnover:
 <p align="center">
-![Screenshot 2022-03-10 161237](https://user-images.githubusercontent.com/76631994/157988293-c9aa1ed3-5aa5-4f87-a213-0d8c48e94571.png)
+   <img src="https://user-images.githubusercontent.com/76631994/157988293-c9aa1ed3-5aa5-4f87-a213-0d8c48e94571.png">
 </p>
 
 For the team whose offense threw the turnover:
 
 <p align="center">
-![Screenshot 2022-03-10 161206](https://user-images.githubusercontent.com/76631994/157988364-231ba677-3c61-4afb-afad-25f6ee270495.png)
+   <img src ="https://user-images.githubusercontent.com/76631994/157988364-231ba677-3c61-4afb-afad-25f6ee270495.png">
 </p>
 
 In both scenarios, there doesn’t seem to be any trend over the years in terms of the impact of a momentum-shifting play.
